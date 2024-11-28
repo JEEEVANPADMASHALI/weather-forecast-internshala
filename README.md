@@ -76,13 +76,9 @@ This weather forecast application provides real-time weather updates and extende
 
 ## **Screenshots**
 
-### **Homepage**
-*(Add a screenshot here)*
-
 ### **Search Results**
-*(Add a screenshot here)*
 
----
+
 
 ## **Known Issues**
 - Current location searches do not add to the recent searches dropdown.
