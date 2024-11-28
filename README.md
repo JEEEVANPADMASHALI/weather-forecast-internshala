@@ -77,7 +77,7 @@ This weather forecast application provides real-time weather updates and extende
 ## **Screenshots**
 
 ### **Search Results**
-
+ ![Image of Screenshot](assets/icons/screenshot.jpeg)
 
 
 ## **Known Issues**
