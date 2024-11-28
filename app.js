@@ -162,6 +162,14 @@ const getUserCoordinates = () => {
 searchButton.addEventListener("click", getCityCoordinates);
 locationButton.addEventListener("click", getUserCoordinates);
 
+// Keyup Event Listener for Input Field
+cityInput.addEventListener("keyup", (event) => {
+  // Check if the Enter key is pressed
+  if (event.key === "Enter") {
+    getCityCoordinates();
+  }
+});
+
 // Event listener for selecting from dropdown
 cityDropdown.addEventListener("change", (e) => {
   const cityName = e.target.value;
