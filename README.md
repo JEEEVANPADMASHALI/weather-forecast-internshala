@@ -79,18 +79,6 @@ This weather forecast application provides real-time weather updates and extende
 ### **Search Results**
  ![Image of Screenshot](assets/icons/screenshot.jpeg)
 
-
-## **Known Issues**
-- Current location searches do not add to the recent searches dropdown.
-- Recent searches are not persistent (not stored in localStorage).
-
----
-
-## **Future Enhancements**
-- Add localStorage support for persisting recent searches.
-- Include hourly weather forecasts for more granular data.
-- Improve UI/UX with animations and transitions.
-
 ---
 
 ## **Credits**
